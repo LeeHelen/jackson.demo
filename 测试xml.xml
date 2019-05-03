@@ -1,0 +1,79 @@
+<root> 
+  <industries> 
+    <id>CE</id>  
+    <name>Consumer Electronics</name>  
+    <subcategories> 
+      <subcategory> 
+        <id>532</id>  
+        <name>HD-DVD Players</name> 
+      </subcategory> 
+    </subcategories> 
+  </industries>  
+  <industries> 
+    <id>CH</id>  
+    <name>Computer Hardware</name>  
+    <subcategories> 
+      <subcategory> 
+        <id>522</id>  
+        <name>Memory (USB Flash Drive)</name> 
+      </subcategory> 
+    </subcategories> 
+  </industries> 
+</root>
+
+<industries> 
+  <industry> 
+    <id>CE</id>  
+    <name>Consumer Electronics</name>  
+    <subcategories> 
+      <subcategory> 
+        <id>532</id>  
+        <name>HD-DVD Players</name> 
+      </subcategory> 
+    </subcategories> 
+  </industry>  
+  <industry> 
+    <id>CH</id>  
+    <name>Computer Hardware</name>  
+    <subcategories> 
+      <subcategory> 
+        <id>522</id>  
+        <name>Memory (USB Flash Drive)</name> 
+      </subcategory> 
+    </subcategories> 
+  </industry> 
+</industries>
+
+
+<industries> 
+  <industry> 
+    <id>CE</id>  
+    <name>Consumer Electronics</name>  
+    <subcategories> 
+      <subcategory> 
+        <id>532</id>  
+        <name>HD-DVD Players</name> 
+      </subcategory> 
+	  <subcategory> 
+        <id>532</id>  
+        <name>HD-DVD Players</name> 
+      </subcategory>
+    </subcategories> 
+  </industry>  
+  <industry> 
+    <id>CH</id>  
+    <name>Computer Hardware</name>  
+    <subcategories> 
+      <subcategory> 
+        <id>522</id>  
+        <name>Memory (USB Flash Drive)</name> 
+      </subcategory> 
+	  <subcategory> 
+        <id>522</id>  
+        <name>Memory (USB Flash Drive)</name> 
+      </subcategory> 
+    </subcategories> 
+  </industry> 
+</industries>
+
+
